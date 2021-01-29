@@ -20,5 +20,4 @@ Technologies:
 Contact me:
 
 [![](https://img.shields.io/badge/-telegram-blue?style=plastic&logo=telegram)](https://t.me/n50u1)
-
-
+[![](https://img.shields.io/badge/-linkedin-blue?style=plastic&logo=linkedin)](linkedin.com/in/sergey-manannikov-42a631205)
