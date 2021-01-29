@@ -18,7 +18,7 @@ Technologies and instruments:
 ![](https://img.shields.io/badge/-Apache_Maven-black?style=plastic&logo=apache)
 ![](https://img.shields.io/badge/-Travis_CI-black?style=plastic&logo=travis)
 ![](https://img.shields.io/badge/-Codecov-black?style=plastic&logo=codecov)
-![](https://img.shields.io/badge/-Tomcat-black?style=plastic&logo=apache)
+![](https://img.shields.io/badge/-Apache_Tomcat-black?style=plastic&logo=apache)
 
 Contact me:
 
