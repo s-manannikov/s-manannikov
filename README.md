@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Contact me:
-[![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat=logo=telegram&logoColor=white)](https://t.me/n50u1)
