@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**s-manannikov/s-manannikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects:
 
-Here are some ideas to get you started:
+- [Jobs grabber](https://github.com/s-manannikov/job4j_grabber) (HTML parser)
+- [Tracker](https://github.com/s-manannikov/job4j_tracker) (console CRUD application)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java Courses:
+- [job4j trainee](https://github.com/s-manannikov/job4j_elementary)
+- [job4j junior](https://github.com/s-manannikov/job4j_design)
+- [job4j multithreading](https://github.com/s-manannikov/job4j_threads)
+
+Technologies:
+
+![](https://img.shields.io/badge/-Java_Core-black?style=plastic&logo=java)
+![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql)
+![](https://img.shields.io/badge/-Travis_CI-black?style=plastic&logo=travis)
+
+Contact me:
+
+[![](https://img.shields.io/badge/-telegram-blue?style=plastic&logo=telegram)](https://t.me/n50u1)
+
+
