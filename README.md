@@ -2,7 +2,7 @@
 
 Projects:
 
-- [Jobs market](https://github.com/s-manannikov/job4j_dreamjob) (using Java Servlet API)
+- [Jobs market](https://github.com/s-manannikov/job4j_dreamjob) (using Java Servlet API, simple JS/HTML/CSS)
 - [Jobs grabber](https://github.com/s-manannikov/job4j_grabber) (HTML parser)
 - [Tracker](https://github.com/s-manannikov/job4j_tracker) (console CRUD application using JDBC)
 
