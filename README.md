@@ -27,3 +27,7 @@ Contact me:
 
 [![](https://img.shields.io/badge/-telegram-blue?style=plastic&logo=telegram)](https://t.me/n50u1)
 [![](https://img.shields.io/badge/-linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/sergey-manannikov-42a631205)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=s-manannikov&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-manannikov&layout=compact)](https://github.com/s-manannikov/github-readme-stats)
