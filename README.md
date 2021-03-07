@@ -19,6 +19,7 @@ Technologies and instruments:
 ![](https://img.shields.io/badge/-Java_EE-black?style=plastic&logo=java)
 ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql)
+![](https://img.shields.io/badge/-Hibernate-black?style=plastic&logo=hibernate)
 ![](https://img.shields.io/badge/-Apache_Maven-black?style=plastic&logo=apache)
 ![](https://img.shields.io/badge/-Travis_CI-black?style=plastic&logo=travis)
 ![](https://img.shields.io/badge/-Codecov-black?style=plastic&logo=codecov)
