@@ -6,7 +6,7 @@ Projects:
 - [Cinema Booking Service](https://github.com/s-manannikov/cinema) (Java Servlet API, PostgreSQL, JS/HTML/CSS)
 - [Jobs Market](https://github.com/s-manannikov/job4j_dreamjob) (Java Servlet API, PostgreSQL, JS/HTML/CSS/JSP)
 - [Jobs Grabber](https://github.com/s-manannikov/job4j_grabber) (HTML parser)
-- [Tracker](https://github.com/s-manannikov/job4j_tracker) (simple console CRUD application using Hibernate)
+- [Tracker](https://github.com/s-manannikov/job4j_tracker) (simple console CRUD application)
 
 Java Courses:
 - [job4j multithreading](https://github.com/s-manannikov/job4j_threads)
