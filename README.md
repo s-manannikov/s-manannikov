@@ -26,8 +26,6 @@ Technologies and instruments:
 ![](https://img.shields.io/badge/-Travis_CI-black?style=plastic&logo=travis)
 ![](https://img.shields.io/badge/-Codecov-black?style=plastic&logo=codecov)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-manannikov&layout=compact)]
-
 Contact me:
 
 [![](https://img.shields.io/badge/-telegram-blue?style=plastic&logo=telegram)](https://t.me/n50u1)
