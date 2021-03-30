@@ -2,13 +2,14 @@
 
 Projects:
 
+- [Cars Sale](https://github.com/s-manannikov/cars_sale) (Java Servlet API, Hibernate, PostgreSQL, JSP/JS/HTML)
 - [ToDo List](https://github.com/s-manannikov/todo) (Java Servlet API, PostgreSQL, Hibernate, JS/HTML)
 - [Cinema Booking Service](https://github.com/s-manannikov/cinema) (Java Servlet API, PostgreSQL, JS/HTML/CSS)
 - [Jobs Market](https://github.com/s-manannikov/job4j_dreamjob) (Java Servlet API, PostgreSQL, JS/HTML/CSS/JSP)
 - [Jobs Grabber](https://github.com/s-manannikov/job4j_grabber) (HTML parser)
-- [Tracker](https://github.com/s-manannikov/job4j_tracker) (simple console CRUD application)
 
 Java Courses:
+- [Tracker](https://github.com/s-manannikov/job4j_tracker) (simple console CRUD application)
 - [job4j multithreading](https://github.com/s-manannikov/job4j_threads)
 - [job4j junior](https://github.com/s-manannikov/job4j_design)
 - [job4j trainee](https://github.com/s-manannikov/job4j_elementary)
