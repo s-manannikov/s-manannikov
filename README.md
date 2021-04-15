@@ -2,6 +2,7 @@
 
 Projects:
 
+- [Forum](https://github.com/s-manannikov/forum) (Spring (MVC, Boot, Data, Security) PostgreSQL, JSP/CSS/HTML)
 - [Cars Sale Web App](https://github.com/s-manannikov/cars_sale) (Java Servlet API, Hibernate, PostgreSQL, HSQLDB, JSP/CSS/JS/HTML)
 - [Road Accident](https://github.com/s-manannikov/road_accident) (Spring (MVC, ORM, Data, Security), Hibernate, PostgreSQL, JSP/CSS)
 - [ToDo List](https://github.com/s-manannikov/todo) (Java Servlet API, PostgreSQL, Hibernate, JS/HTML)
@@ -19,6 +20,7 @@ Technologies and instruments:
 
 ![](https://img.shields.io/badge/-Java_SE-black?style=plastic&logo=java)
 ![](https://img.shields.io/badge/-Java_EE-black?style=plastic&logo=java)
+![](https://img.shields.io/badge/-Spring-black?style=plastic&logo=spring)
 ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=plastic&logo=postgresql)
 ![](https://img.shields.io/badge/-Hibernate-black?style=plastic&logo=hibernate)
