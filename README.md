@@ -2,7 +2,7 @@
 
 Projects:
 
-- [Forum](https://github.com/s-manannikov/forum) (Spring (MVC, Boot, Data, Security) PostgreSQL, JSP/CSS/HTML)
+- [Forum](https://github.com/s-manannikov/forum) (Spring (MVC, Boot, Data, Security, Test) PostgreSQL, Liquibase, Heroku, JSP/CSS) ([forum demo](https://murmuring-dusk-19585.herokuapp.com))
 - [Cars Sale Web App](https://github.com/s-manannikov/cars_sale) (Java Servlet API, Hibernate, PostgreSQL, HSQLDB, JSP/CSS/JS/HTML)
 - [Road Accident](https://github.com/s-manannikov/road_accident) (Spring (MVC, ORM, Data, Security), Hibernate, PostgreSQL, JSP/CSS)
 - [ToDo List](https://github.com/s-manannikov/todo) (Java Servlet API, PostgreSQL, Hibernate, JS/HTML)
