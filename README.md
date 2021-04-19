@@ -2,11 +2,11 @@
 
 Projects:
 
-- [Forum](https://github.com/s-manannikov/forum) (Spring (MVC, Boot, Data, Security, Test) PostgreSQL, Liquibase, Heroku, JSP/CSS) ([forum demo](https://murmuring-dusk-19585.herokuapp.com))
-- [Cars Sale Web App](https://github.com/s-manannikov/cars_sale) (Java Servlet API, Hibernate, PostgreSQL, HSQLDB, JSP/CSS/JS/HTML)
+- [Forum](https://github.com/s-manannikov/forum) (Spring (MVC, Boot, Data, Security, Test) PostgreSQL, Liquibase, Heroku, JSP/CSS) ([demo](https://murmuring-dusk-19585.herokuapp.com))
+- [Cars Sale](https://github.com/s-manannikov/cars_sale) (Java Servlet API, Hibernate, PostgreSQL, HSQLDB, JSP/CSS/JS/HTML)
 - [Road Accident](https://github.com/s-manannikov/road_accident) (Spring (MVC, ORM, Data, Security), Hibernate, PostgreSQL, JSP/CSS)
 - [ToDo List](https://github.com/s-manannikov/todo) (Java Servlet API, PostgreSQL, Hibernate, JS/HTML)
-- [Cinema Booking Service](https://github.com/s-manannikov/cinema) (Java Servlet API, PostgreSQL, JS/HTML/CSS)
+- [Cinema Booking](https://github.com/s-manannikov/cinema) (Java Servlet API, PostgreSQL, JS/HTML/CSS)
 - [Jobs Market](https://github.com/s-manannikov/job4j_dreamjob) (Java Servlet API, PostgreSQL, JS/HTML/CSS/JSP)
 - [Jobs Grabber](https://github.com/s-manannikov/job4j_grabber) (HTML parser)
 
