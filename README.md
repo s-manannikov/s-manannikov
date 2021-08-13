@@ -26,6 +26,7 @@ Technologies and instruments:
 ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![](https://img.shields.io/badge/-Apache_Maven-black?style=plastic&logo=apache)
 ![](https://img.shields.io/badge/-Apache_Tomcat-black?style=plastic&logo=apache)
+![](https://img.shields.io/badge/-Apache_Kafka-black?style=plastic&logo=kafka)
 ![](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
 ![](https://img.shields.io/badge/-Travis_CI-black?style=plastic&logo=travis)
 ![](https://img.shields.io/badge/-Codecov-black?style=plastic&logo=codecov)
