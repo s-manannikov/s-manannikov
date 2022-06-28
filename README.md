@@ -33,6 +33,4 @@ Technologies and instruments:
 ![](https://img.shields.io/badge/-Codecov-black?style=plastic&logo=codecov)
 
 Contact me:
-
-[![](https://img.shields.io/badge/-telegram-blue?style=plastic&logo=telegram)](https://t.me/n50u1)
 [![](https://img.shields.io/badge/-linkedin-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/sergey-manannikov-42a631205)
